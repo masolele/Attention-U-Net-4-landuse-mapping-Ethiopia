@@ -1,2 +1,2 @@
 # Attention-U-Net-4-landuse-mapping-Ethiopia
-Mapping of land use following deforestation in Ethiopia using attention U-Net and Planet-NICFI images
+An attention U-Net model is used to map land use following deforestation in Ethiopia using Planet-NICFI images.
